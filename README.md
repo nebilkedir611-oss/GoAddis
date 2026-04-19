@@ -74,3 +74,6 @@ GoAddis is a lightweight transport coordination MVP for Addis Ababa that uses a 
 ```bash
 git clone https://github.com/yourusername/goaddis-bot.git
 cd goaddis-bot
+
+
+python-telegram-bot==20.7
